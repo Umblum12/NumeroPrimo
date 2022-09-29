@@ -1,0 +1,15 @@
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.csproj.AssemblyReference.cache
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.AssemblyInfo.cs
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\net6.0\NumeroPrimo.exe
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\net6.0\NumeroPrimo.deps.json
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\net6.0\NumeroPrimo.runtimeconfig.json
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\net6.0\NumeroPrimo.dll
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\net6.0\NumeroPrimo.pdb
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.dll
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\net6.0\refint\NumeroPrimo.dll
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.pdb
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.genruntimeconfig.cache
+C:\Users\abela\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\net6.0\ref\NumeroPrimo.dll
